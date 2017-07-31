@@ -11,3 +11,9 @@ http://monkeycoder.co.nz/forums/topic/alien-phoenix/<br>
 https://www.phoenixusc.com<br>
 https://www.facebook.com/PhoenixUniverseOfSpaceCombat<br>
 https://twitter.com/PhoenixUSC<br>
+
+Video of Phoenix USC using Alien Phoenix<br>
+https://www.youtube.com/embed/Idjr1JVvw60
+
+Video showing some of Alien Phoenix's GUI features (early video will update soon).<br>
+https://www.youtube.com/embed/QN0pCR6kPI8
