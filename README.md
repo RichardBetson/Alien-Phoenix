@@ -2,7 +2,7 @@
 A GUI and gaming framework for Monkey2<br>
 [![License: Zlib](https://img.shields.io/badge/License-Zlib-lightgrey.svg)](https://opensource.org/licenses/Zlib)
 
-Important: You don't have to build any modules, just run the examples. While in early development project files are imported.
+<b>Important</b>: You don't have to build any modules, just run the examples. While in early development project files are imported.
 
 Alien Phoenix is a GUI and gaming framework for the Monkey 2 programing language. It includes a GUI that is game oriented, customizable, fast and efficient. The GUI offers multiple windows that are independent and work within a Monkey 2 canvas. Alien Phoenix also includes mapping, physics and other integrated code to assist in game development. This framework is part of the Phoenix USC game project currently in development.
 
