@@ -13,7 +13,7 @@ https://www.facebook.com/PhoenixUniverseOfSpaceCombat<br>
 https://twitter.com/PhoenixUSC<br>
 
 Video of Phoenix USC using Alien Phoenix<br>
-https://www.youtube.com/embed/Idjr1JVvw60
+<iframe width="600" height="338" src="https://www.youtube.com/embed/hCXQr6zELo4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Video showing some of Alien Phoenix's GUI features (early video will update soon).<br>
 https://www.youtube.com/embed/QN0pCR6kPI8
