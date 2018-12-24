@@ -312,7 +312,7 @@ Local b:Float=1.0
 				myMatrix.t.y=p_slider.y'+winy
 				p_slider.window._canvas.Matrix*=myMatrix   'transform current matrix by myMatrix.
 
-
+				p_slider.window._canvas.Color=New Color(1,1,1)
 				p_slider.window._canvas.Alpha=p_slider.alpha'SetAlpha(p_slider.alpha)
 				p_slider.window._canvas.DrawImage(p_slider.slider_image,0,0)
 				p_slider.window._canvas.Alpha=1'SetAlpha(1)
