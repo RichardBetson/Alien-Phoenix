@@ -2,10 +2,10 @@
 <panel_right>system_resources/client_skin/test.png
 <panel_left>system_resources/client_skin/test.png
 <ship_box>system_resources/client_skin/ship_view_bg3.png
-<button_up>system_resources/client_skin/button_glow_up.png
-<button_down>system_resources/client_skin/button_glow_down.png
-<button_highlight>system_resources/client_skin/button_glow_selected.png
-<button_selected>system_resources/client_skin/button_glow_selected.png
+<button_up>system_resources/client_skin/button_up_blue.png
+<button_down>system_resources/client_skin/button_down_blue.png
+<button_highlight>system_resources/client_skin/button_selected_blue.png
+<button_selected>system_resources/client_skin/button_down_blue.png
 <slider_vert_thumb>system_resources/client_skin/sliderthumb.png
 <slider_vert_top>system_resources/client_skin/sliderup.png
 <slider_vert_bottom>system_resources/client_skin/sliderdown.png
