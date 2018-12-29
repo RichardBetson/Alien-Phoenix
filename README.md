@@ -1,6 +1,7 @@
 # Alien-Phoenix
 A GUI and gaming framework for Monkey2<br>
 [![License: Zlib](https://img.shields.io/badge/License-Zlib-lightgrey.svg)](https://opensource.org/licenses/Zlib)
+Please include the Alien Phoinx logo in your work if possible. Thanks. :D
 
 <b>Important</b>: You don't have to build any modules, just run the examples. While in early development project files are imported.
 
