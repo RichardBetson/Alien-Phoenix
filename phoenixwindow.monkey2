@@ -7,7 +7,6 @@
 '* Targets: Android, Windows, Linux, Emscripten, IOS
 '* Title: Phoenix Window 
 '* Licence: zlib/libpng License (Zlib) - https://opensource.org/licenses/Zlib
-'* Version: 0.7
 '******************************************************************************
 
 Namespace phoenixwindow
@@ -772,7 +771,7 @@ Class PWindow
 					new_window._window_visible=False 
 				Endif
 			Endif
-		'	new_window.Window_Draw_List.Clear()
+			new_window.Window_Draw_List.Clear()
 			'new_window.PWindow_Image_List.Clear()
 			'new_window.PWindow_Line_List.Clear()
 		Next
